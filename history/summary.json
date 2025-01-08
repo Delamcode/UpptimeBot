@@ -4,19 +4,19 @@
     "url": "https://delamcode.duckdns.org:10443",
     "icon": "https://icons.duckduckgo.com/ip3/delamcode.duckdns.org.ico",
     "slug": "immich",
-    "status": "up",
-    "uptime": "97.94%",
-    "uptimeDay": "91.56%",
-    "uptimeWeek": "97.94%",
-    "uptimeMonth": "97.94%",
-    "uptimeYear": "97.94%",
+    "status": "down",
+    "uptime": "98.08%",
+    "uptimeDay": "92.11%",
+    "uptimeWeek": "98.08%",
+    "uptimeMonth": "98.08%",
+    "uptimeYear": "98.08%",
     "time": 2916,
     "timeDay": 7019,
     "timeWeek": 2916,
     "timeMonth": 2916,
     "timeYear": 2916,
     "dailyMinutesDown": {
-      "2025-01-08": 91,
+      "2025-01-08": 83,
       "2025-01-07": 31
     }
   }
