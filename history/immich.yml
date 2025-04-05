@@ -1,7 +1,7 @@
 url: https://delamcode.duckdns.org:10443
-status: up
-code: 200
-responseTime: 534
-lastUpdated: 2025-04-04T23:09:01.546Z
+status: down
+code: 502
+responseTime: 304
+lastUpdated: 2025-04-05T14:53:43.922Z
 startTime: 2025-01-04T15:45:09.117Z
 generator: Upptime <https://github.com/upptime/upptime>
