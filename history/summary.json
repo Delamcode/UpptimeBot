@@ -4,17 +4,19 @@
     "url": "https://public.end-eagle.ts.net",
     "icon": "https://icons.duckduckgo.com/ip3/public.end-eagle.ts.net.ico",
     "slug": "immich-public-proxy",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 375,
-    "timeDay": 375,
-    "timeWeek": 375,
-    "timeMonth": 375,
-    "timeYear": 375,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "97.49%",
+    "uptimeDay": "97.49%",
+    "uptimeWeek": "97.49%",
+    "uptimeMonth": "97.49%",
+    "uptimeYear": "97.49%",
+    "time": 458,
+    "timeDay": 458,
+    "timeWeek": 458,
+    "timeMonth": 458,
+    "timeYear": 458,
+    "dailyMinutesDown": {
+      "2025-04-30": 16
+    }
   }
 ]
